@@ -1,12 +1,13 @@
 - [Kubernetes进阶-高级调度准入控制](#kubernetes进阶-高级调度准入控制)
-      - [1.1 为什么使用ResourceQupta](#11-为什么使用resourcequpta)
-      - [1.2 资源配额配置详解](#12-资源配额配置详解)
-      - [1.3 生产必备LimitRange](#13-生产必备limitrange)
-      - [1.4 限制requests和Limits范围](#14-限制requests和limits范围)
-      - [1.5 限制存储空间大小](#15-限制存储空间大小)
-      - [2.1 生产可用性保障服务质量QOS](#21-生产可用性保障服务质量qos)
+  - [1.1 为什么使用ResourceQupta](#11-为什么使用resourcequpta)
+  - [1.2 资源配额配置详解](#12-资源配额配置详解)
+  - [1.3 生产必备LimitRange](#13-生产必备limitrange)
+  - [1.4 限制requests和Limits范围](#14-限制requests和limits范围)
+  - [1.5 限制存储空间大小](#15-限制存储空间大小)
+  - [2.1 生产可用性保障服务质量QOS](#21-生产可用性保障服务质量qos)
 
-#  Kubernetes进阶-高级调度准入控制 #
+
+###  Kubernetes进阶-高级调度准入控制 ###
 
 
 
